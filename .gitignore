@@ -1,0 +1,6 @@
+# Secretos: NUNCA subirlos a GitHub
+.env
+.streamlit/secrets.toml
+token.json
+credenciales_google.json
+credentials*.json
